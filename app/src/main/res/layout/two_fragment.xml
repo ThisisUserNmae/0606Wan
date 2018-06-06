@@ -2,7 +2,17 @@
 <android.support.constraint.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#44f"
     >
+    <com.handmark.pulltorefresh.library.PullToRefreshGridView
+        android:id="@+id/pull_to_refresh_gridview"
+        android:layout_width="fill_parent"
+        android:numColumns="2"
+        android:verticalSpacing="15px"
+        android:horizontalSpacing="55px"
+        android:columnWidth="250px"
+        android:stretchMode="columnWidth"
 
+        android:layout_height="fill_parent">
+
+    </com.handmark.pulltorefresh.library.PullToRefreshGridView>
 </android.support.constraint.ConstraintLayout>
