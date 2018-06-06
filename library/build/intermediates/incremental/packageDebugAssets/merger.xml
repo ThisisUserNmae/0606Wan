@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="G:\AndroidStudioProjects\0606Wan\library\src\main\assets"/><source path="G:\AndroidStudioProjects\0606Wan\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="G:\AndroidStudioProjects\0606Wan\library\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\Studio_WrokSpace\LX_0606Wan2\library\src\main\assets"/><source path="D:\Studio_WrokSpace\LX_0606Wan2\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Studio_WrokSpace\LX_0606Wan2\library\src\debug\assets"/></dataSet></merger>
